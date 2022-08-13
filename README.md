@@ -16,7 +16,8 @@
 2. In the **"test_your_luck"** folder open the **"src"** folder and opne your termianl and run the main.py 
 3. Then Enjoy 😊
 
-
+## 🎮 Preview Of the Game 
+<img src="media/Annotation%202022-08-13%20215406.png">
 
 ## 👩🏾‍💻 Feel free to fork, clone and *Make Your Own Version*
 
