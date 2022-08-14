@@ -27,4 +27,5 @@
 ## 🙋🏽 If you know about Python 🐍 and want to contribute then dive into it 
 ***Please Follow the [Contributing Guidelines](CONTRIBUTING.md)***
 
+### 📝 If you want to use this project then checkout [License](LICENSE)
 ###  Follow me on Twitter <img src="media/twitter-transparent-logo-social-media.png" width=25px height=25px> [@iamBijoyKar](https://twitter.com/iamBijoyKar)
