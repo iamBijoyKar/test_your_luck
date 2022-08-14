@@ -2,7 +2,7 @@
 # *Guess The Number and Test Your Luck* 
 ***Test Your Luck*** is command line based game written in python.
 ###  🔥  It contains only 30 lines of Python Code
-
+### 👍 Strongly Recommended for Python Beginner 
 ## 🚀 Features
 - It has infinite levels
 - Scoring System
