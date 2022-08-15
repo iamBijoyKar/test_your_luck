@@ -17,8 +17,11 @@
 3. Then Enjoy 😊
 
 ## 🎮 Preview Of the Game 
-<img src="media/Annotation%202022-08-13%20215406.png">
-<img src="media/Annotation%202022-08-13%20220710.png">
+  *Unstable Version - Under Development.* 
+  ***Checkout The Base version in dev branch***
+  
+<img src="media/Annotation%202022-08-15%20160002.png">
+
 
 
 ## 👩🏾‍💻 Feel free to fork, clone and *Make Your Own Version*
