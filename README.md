@@ -20,7 +20,7 @@
   *Unstable Version - Under Development.* 
   ***Checkout The Base version in dev branch***
   
-<img src="media/Annotation%202022-08-15%20160002.png">
+<img src="media/teminal_test_your_luck.gif">
 
 
 
