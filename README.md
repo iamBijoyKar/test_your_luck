@@ -17,8 +17,11 @@
 3. Then Enjoy 😊
 
 ## 🎮 Preview Of the Game 
-<img src="media/Annotation%202022-08-13%20215406.png">
-<img src="media/Annotation%202022-08-13%20220710.png">
+  *Unstable Version - Under Development.* 
+  ***Checkout The Base version in base branch***
+  
+<img src="media/teminal_test_your_luck2.gif">
+
 
 
 ## 👩🏾‍💻 Feel free to fork, clone and *Make Your Own Version*
