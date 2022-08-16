@@ -13,7 +13,7 @@
 ## ⚽ How to Play 
 1. Clone the repo or download the **zip**
    - If you have downloaded the zip then ***extract the zip***
-1. ***Python and rich*** must be install in your system  or make a virtual enviroment.
+1. ***Python and rich*** must be installed in your system  or make a virtual enviroment.
 2. In the **"test_your_luck"** folder open the **"src"** folder and open your termianl and run the main.py. Watch below 👇 
    
 3. Then Enjoy 😊
