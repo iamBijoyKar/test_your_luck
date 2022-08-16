@@ -1,6 +1,7 @@
 from random import randint
 from rich.console import Console
 from rich.progress import track
+from rich.text import Text
 import time
 console=Console()
 total_point,upper_limit,lose,level,chance=0,5,False,1,5
@@ -11,11 +12,13 @@ while True:
         if(wrong_answer_count>=chance):
             lose=True
             break
-        guess_number=(input('Guess Your Number :'))
+        console.print('Guess Your Number :',style='bold magenta',end="")
+        guess_number=input()
         rand_val=randint(1,upper_limit)
-        for i in track(range(1,10),description='Generating..'):
-            time.sleep(.1)
-        time.sleep(.5)
+        with console.status ("[bold green]Generatin...") as status:
+            for i in range(1,11):
+                time.sleep(.1)
+        
         console.print(f'Random Generated Value is {rand_val}',style='bold green ')
         time.sleep(.5)
 
