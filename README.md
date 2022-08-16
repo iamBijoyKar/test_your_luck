@@ -20,7 +20,7 @@
   *Unstable Version - Under Development.* 
   ***Checkout The Base version in base branch***
   
-<img src="media/teminal_test_your_luck.gif">
+<img src="media/teminal_test_your_luck2.gif">
 
 
 
