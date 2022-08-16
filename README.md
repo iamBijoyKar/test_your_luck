@@ -18,7 +18,7 @@
 
 ## 🎮 Preview Of the Game 
   *Unstable Version - Under Development.* 
-  ***Checkout The Base version in dev branch***
+  ***Checkout The Base version in base branch***
   
 <img src="media/teminal_test_your_luck.gif">
 

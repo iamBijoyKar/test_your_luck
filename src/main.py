@@ -1,24 +1,12 @@
 from random import randint
-<<<<<<< HEAD
-score=open('score.txt','a+')
-total_point,upper_limit,lose,level,chance=0,5,False,1,5
-while True:
-    print('You want to store your name and score :(y/n)')
-    save_score=False
-    ch=input()
-    if(ch=='y' or ch=='Y'):
-        save_score=True
-    print(f"Guess The Number Between 1 and {upper_limit} , You Have {chance} Chances")
-=======
 from rich.console import Console
-from rich.progress import track
-from rich.text import Text
+
+
 import time
 console=Console()
 total_point,upper_limit,lose,level,chance=0,5,False,1,5
 while True:
     console.print(f"Guess The Number Between 1 and {upper_limit} , You Have {chance} Chances",style='bold yellow italic')
->>>>>>> f30fefd1505540c65743fcec658af73a8c20560d
     wrong_answer_count,level_point=0,0
     while(True):
         if(wrong_answer_count>=chance):
