@@ -1,6 +1,12 @@
 from random import randint
+score=open('score.txt','a+')
 total_point,upper_limit,lose,level,chance=0,5,False,1,5
 while True:
+    print('You want to store your name and score :(y/n)')
+    save_score=False
+    ch=input()
+    if(ch=='y' or ch=='Y'):
+        save_score=True
     print(f"Guess The Number Between 1 and {upper_limit} , You Have {chance} Chances")
     wrong_answer_count,level_point=0,0
     while(True):
